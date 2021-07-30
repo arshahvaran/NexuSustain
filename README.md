@@ -7,7 +7,20 @@ Following the evolution of integrated approaches for environmental management, s
 
 One of the most common methods in analyzing WEF nexus systems is the Multi-Scale Integrated Analysis of Societal and Ecosystem Metabolism (MuSIASEM), which has been evolving since the beginning of the current century. In 2014, the second version, named MuSIASEM 2.0, was introduced and has been increasingly used in nexus studies. The debut of the framework goes back to 1999 for analyzing energy flows in agricultural systems. However, over time, the capability of analyzing monetary flows, land use, demographic, water, and food data was added to the framework and made it one of the most popular sustainability assessment methods, especially in the nexus field. Based on the literature review conducted on this research, more than one hundred scientific articles, books, and reports have benefited from this method in their sustainability studies and environmental projects in more than sixty countries worldwide.
 
-Regrettably, so far, no specialized software or platform, neither for diagnostic/simulation analysis nor for decision support, is designed. Researchers must learn how to use various geospatial analysis software to conduct resource accounting studies, even without data visualization or sharing capability. To overcome these limitations, this study aims to design and develop a web-based spatial decision support tool with interactive maps where the user can analyze a nexus system within the MuSIASEM 2.0 framework, simulate various scenarios, and with the help of visualized results and spatial maps, conduct feasibility, viability, and desirability checks for different strategies to reach the best and most sustainable decision.
+Regrettably, so far, no specialized software or platform, neither for diagnostic/simulation analysis nor for decision support, is designed. Researchers must learn how to use various geospatial analysis software to conduct resource accounting studies, commonly without data visualization or sharing capability. To overcome these limitations, this project aims to design and develop a web-based spatial decision support tool with interactive maps where the user can analyze a nexus system within the MuSIASEM 2.0 framework, simulate various scenarios, and with the help of visualized results and spatial maps, conduct feasibility, viability, and desirability checks for different strategies to reach the best and most sustainable decision.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # About
