@@ -39,25 +39,25 @@ X
 # TECHNOLOGY STACK
 
 
-Tech Stack Architecture
+Tech Stack Architecture:
 
 
 ![Slide4](https://user-images.githubusercontent.com/61093183/126519961-7818a733-5bd5-44cd-be82-7d5ce2eb2c5a.PNG)
 
 
-Frontend Stack
+Frontend Stack:
 
 
 ![Slide11](https://user-images.githubusercontent.com/61093183/126520090-0259be97-f911-4f12-83de-602d38217b1c.PNG)
 
 
-Backend Stack
+Backend Stack:
 
 
 ![Slide3](https://user-images.githubusercontent.com/61093183/126520158-0f1e37f8-f04d-4607-bae1-4fffa51371a5.PNG)
 
 
-Service Stack
+Service Stack:
 
 
 ![Slide2](https://user-images.githubusercontent.com/61093183/126520225-7a54ef99-285a-4da4-bc4d-5046e40f7e5e.PNG)
@@ -85,9 +85,9 @@ Your feedbacks are most welcome.
 
 Should you have any questions about the tool, wish to know the creators, or wish to participate in the future expansion of the website, please get in touch with us:
 
-Tel: +98 917 968 7488
+* Tel: +98 917 968 7488
 
-Email: a_shahvaran@civileng.iust.ac.ir
+* Email: a_shahvaran@civileng.iust.ac.ir
 
 
 # HOW TO CITE US
