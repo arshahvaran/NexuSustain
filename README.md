@@ -10,19 +10,6 @@ One of the most common methods in analyzing WEF nexus systems is the Multi-Scale
 Regrettably, so far, no specialized software or platform, neither for diagnostic/simulation analysis nor for decision support, is designed. Researchers must learn how to use various geospatial analysis software to conduct resource accounting studies, commonly without data visualization or sharing capability. To overcome these limitations, this project aims to design and develop a web-based spatial decision support tool with interactive maps where the user can analyze a nexus system within the MuSIASEM 2.0 framework, simulate various scenarios, and with the help of visualized results and spatial maps, conduct feasibility, viability, and desirability checks for different strategies to reach the best and most sustainable decision.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # ABOUT NEXUSUSTAIN
 NexuSustain is an open-access, interactive, and user-friendly web application where both experts (academicians and professionals) and nonexperts (decision-makers) can assess the sustainability of a water-energy-food (WEF) nexus system. Such web-based implementation allows interdisciplinary and multi-stakeholder collaboration via the internet, bringing a global perspective to nexus resources management. 
 
@@ -74,6 +61,21 @@ X
 
 
 ![Slide2](https://user-images.githubusercontent.com/61093183/126520225-7a54ef99-285a-4da4-bc4d-5046e40f7e5e.PNG)
+
+
+# MATRIX SPREADSHEETS
+
+Default Hirarchical Structure:
+[NS-DHS.xlsx](https://github.com/arshahvaran/NexuSustain/files/6911077/NS-DHS.xlsx)
+
+Multi-Level, Multi-Dimensional Matrix:
+[NS-MMM.xlsx](https://github.com/arshahvaran/NexuSustain/files/6911081/NS-MMM.xlsx)
+
+Environmental Pressure Matrix:
+[NS-EPM.xlsx](https://github.com/arshahvaran/NexuSustain/files/6911078/NS-EPM.xlsx)
+
+Production Matrix:
+[NS-PM.xlsx](https://github.com/arshahvaran/NexuSustain/files/6911080/NS-PM.xlsx)
 
 
 # CONTACT US
