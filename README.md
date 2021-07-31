@@ -30,10 +30,15 @@ X
 Watch our straightforward step-by-step walkthroughs, or download the User Manual PDF.
 
 English Tutorial:
+
 X
+
 Persian Tutorial:
+
 X
+
 User Manual:
+
 X
 
 
@@ -66,7 +71,9 @@ X
 
 # CONTACT US
 Do not hesitate to contact us if you need any help regarding the tool. 
+
 Your feedbacks are most welcome.
+
 Should you have any questions about the tool, wish to know the creators, or wish to participate in the future expansion of the website, please get in touch with us:
 
 Tel: +98 917 968 7488
@@ -76,7 +83,10 @@ Email: a_shahvaran@civileng.iust.ac.ir
 
 # HOW TO CITE US
 The standard citation for this portal is:
+
 X
+
 The source scripts and codes for NexuSustain is available on the following GitHub repository:
+
 https://github.com/arshahvaran/NexuSustain
 
