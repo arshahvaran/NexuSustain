@@ -33,7 +33,7 @@ Similar to the MuSIASEM, our tool integrates data across different sectors and s
 Please bear in mind that the development of NexuSustain is continuing (the current version is Beta), and the usability, functionality, and applicability of the tool may be subject to changes. Moreover, developers do not take any responsibility regarding making faulty decisions or reaching wrongful conclusions based on misuse of the application.
 
 
-# TOTURIALS
+# TUTORIALS
 Watch our straightforward step-by-step walkthroughs, or download the User Manual PDF.
 
 English Tutorial:
