@@ -29,6 +29,7 @@ NexuSustain is an open-access, interactive, and user-friendly web application wh
 Simply put, NexuSustain transforms raw spatial and aspatial data into visualized, easy-to-understand information for making more sustainable decisions. For this purpose, Multi-Scale Integrated Analysis of Societal and Ecosystem Metabolism (MuSIASEM) is used as the accounting framework. Although claimed to be amongst the most comprehensive methods, MuSIASEM is not yet widespread among nonspecialists, perhaps due to understanding and implementation difficulties. To address this challenge, NexuSustain simplified the framework by providing a default hierarchical structure for the socio-ecological system under study and fixing WEF nexus parameters in three predefined matrices called Multi-level Multi-dimension Matrix (MMM), Environmental Pressure Matrix (EPM), and Production Matrix (PM). 
 
 Similar to the MuSIASEM, our tool integrates data across different sectors and scales and let users still control the feasibility, viability, desirability, and openness of the system by defining any desired intensive variable and analyzing them in the forms of online queries, spreadsheet reports, or visualized representations such as graphs.
+
 Please bear in mind that the development of NexuSustain is continuing (the current version is Beta), and the usability, functionality, and applicability of the tool may be subject to changes. Moreover, developers do not take any responsibility regarding making faulty decisions or reaching wrongful conclusions based on misuse of the application.
 
 
