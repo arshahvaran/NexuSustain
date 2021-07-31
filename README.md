@@ -65,20 +65,16 @@ Service Stack
 
 # MATRIX SPREADSHEETS
 
-* Default Hirarchical Structure
-
+* Default Hirarchical Structure:
 [NS-DHS.xlsx](https://github.com/arshahvaran/NexuSustain/files/6911077/NS-DHS.xlsx)
 
-* Multi-Level, Multi-Dimensional Matrix
-
+* Multi-Level, Multi-Dimensional Matrix:
 [NS-MMM.xlsx](https://github.com/arshahvaran/NexuSustain/files/6911081/NS-MMM.xlsx)
 
-* Environmental Pressure Matrix
-
+* Environmental Pressure Matrix:
 [NS-EPM.xlsx](https://github.com/arshahvaran/NexuSustain/files/6911078/NS-EPM.xlsx)
 
-* Production Matrix
-
+* Production Matrix: 
 [NS-PM.xlsx](https://github.com/arshahvaran/NexuSustain/files/6911080/NS-PM.xlsx)
 
 
